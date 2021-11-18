@@ -7,7 +7,7 @@ const noOfnotes = document.querySelectorAll(".no-of-notes");
 const availableNotes = [2000, 500, 100, 20, 10, 5, 1];
 console.log(billAmount.value);
 console.log(cashGiven.value);
-console.log("arpit");
+console.log("yashoda");
 checkButton.addEventListener("click", function validateBillandCashAmount() {
     hideMessage();
     if (billAmount.value > 0) {
