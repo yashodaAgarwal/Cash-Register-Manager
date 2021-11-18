@@ -28,7 +28,7 @@ input{
 }
 
 button{
-    border-radius: 1rem;
+    border-radius: 0.3rem;
     width: 50%;
     margin-left: auto;
     margin-right: auto;
@@ -44,6 +44,7 @@ button{
 
 table{
     border: 1px solid white;
+    border-collapse:collapse;
 }
 th{
     border: 0.5px solid white;
